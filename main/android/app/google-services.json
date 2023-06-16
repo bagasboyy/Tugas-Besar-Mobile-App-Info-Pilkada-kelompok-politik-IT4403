@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608669749780",
+    "project_id": "database-apppilkada",
+    "storage_bucket": "database-apppilkada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608669749780:android:f454dbf0212e01d2900d01",
+        "android_client_info": {
+          "package_name": "com.example.main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608669749780-380bcqnd0h4v6c4da3suej3pu2lavfip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7fHotnVbJ5sWVVUPTLT_t_ML_FnOXLM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608669749780-380bcqnd0h4v6c4da3suej3pu2lavfip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
